@@ -1,0 +1,9 @@
+[submodule "libraries/Adafruit_HMC5883_Unified"]
+	path = libraries/Adafruit_HMC5883_Unified
+	url = https://github.com/adafruit/Adafruit_HMC5883_Unified.git
+[submodule "libraries/Adafruit_Sensor"]
+	path = libraries/Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "libraries/Low-Power"]
+	path = libraries/Low-Power
+	url = https://github.com/rocketscream/Low-Power.git
